@@ -1,0 +1,21 @@
+ ## User Persona: kojied
+
+### Characteristic 1: Interested in technology and gaming
+- **Explanation**: kojied often posts and comments about various technologies and games, such as VR devices, NBA 2K, and Civilization 5. They seem to enjoy discussing strategies, new features, and updates related to these technologies and games.
+- **Source**: [Post/Comment text snippet] (URL: [https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/](https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/), [https://www.reddit.com/r/civ5/comments/1h7bmv3/flight_deity/m2nxxav/](https://www.reddit.com/r/civ5/comments/1h7bmv3/flight_deity/m2nxxav/))
+
+### Characteristic 2: Active in various subreddits
+- **Explanation**: kojied participates in a wide range of subreddits, from r/OnePiece to r/FoodNYC and r/LeopardsAteMyFace, indicating a diverse set of interests.
+- **Source**: [Post/Comment text snippet] (URL: [https://www.reddit.com/r/OnePiece/comments/1hoop3e/bandage_bandage_no_mi/m4a6r4s/](https://www.reddit.com/r/OnePiece/comments/1hoop3e/bandage_bandage_no_mi/m4a6r4s/), [https://www.reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/](https://www.reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/), [https://www.reddit.com/r/LeopardsAteMyFace/comments/1hohsjk/rconservative_is_in_fullon_meltdown_right_now_its/m49vhkh/](https://www.reddit.com/r/LeopardsAteMyFace/comments/1hohsjk/rconservative_is_in_fullon_meltdown_right_now_its/m49vhkh/))
+
+### Characteristic 3: Cares about social issues and self-improvement
+- **Explanation**: kojied has shared personal thoughts and opinions on topics like ESG ratings, mental models for frugal spending, and self-care for millennials. This demonstrates a focus on personal growth and social responsibility.
+- **Source**: [Post/Comment text snippet] (URL: [https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/](https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/), [https://www.reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/](https://www.reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/), [https://www.reddit.com/r/AskReddit/comments/1kz5a0n/do_you_think_millennials_generally_look_younger/mv2xf3q/](https://www.reddit.com/r/AskReddit/comments/1kz5a0n/do_you_think_millennials_generally_look_younger/mv2xf3q/))
+
+### Characteristic 4: Has experience living in New York City
+- **Explanation**: Many of kojied's posts and comments relate to life in NYC, including subway experiences, favorite restaurants, and neighborhood recommendations.
+- **Source**: [Post/Comment text snippet] (URL: [https://www.reddit.com/r/nycrail/comments/1kplupt/anyone_want_this_subway_token_wallet/](https://www.reddit.com/r/nycrail/comments/1kplupt/anyone_want_this_subway_token_wallet/), [https://www.reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/](https://www.reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/), [https://www.reddit.com/r/AskNYC/comments/1hntgrp/what_is_your_nyc_to_do_list_for_2025/m453mqo/](https://www.reddit.com/r/AskNYC/comments/1hntgrp/what_is_your_nyc_to_do_list_for_2025/m453mqo/))
+
+### Characteristic 5: Has experience with H1B visas and international travel
+- **Explanation**: kojied has shared their thoughts on H1B visas and has discussed their personal experiences with international travel.
+- **Source**: [Post/Comment text snippet] (URL: [https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/m4560kx/](https
