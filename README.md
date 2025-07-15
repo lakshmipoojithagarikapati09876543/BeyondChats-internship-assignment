@@ -12,5 +12,5 @@ This repository contains a Python script to analyze Reddit user profiles and gen
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/lakshmipoojithagarikapati09876543/BeyondChats-internship-assignment
    cd your-repo
