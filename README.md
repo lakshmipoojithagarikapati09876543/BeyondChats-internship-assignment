@@ -1,16 +1,16 @@
-# Reddit User Persona Builder
+# Reddit User Persona Generator
 
-This project scrapes a Reddit user's posts and comments, analyzes them using OpenAI's GPT model, and generates a user persona with citations for each characteristic. It is designed for the BeyondChats AI/LLM Engineer Intern assignment.
+This repository contains a Python script to analyze Reddit user profiles and generate personas based on their posts and comments.
 
-## Features
-- Scrapes up to 100 recent posts and comments from a Reddit user's profile.
-- Uses OpenAI's GPT model to analyze content and generate a detailed user persona.
-- Outputs a text file with the persona, including citations to specific posts/comments.
-- Follows PEP-8 guidelines for code readability.
+## Requirements
+- Python 3.9+
+- Required packages (install via `pip`):
+  - `praw==7.7.1`
+  - `openai==1.84.0`
+  - `python-dotenv==1.0.0`
 
-## Setup
-
-1. **Clone the repository**:
+## Setup Instructions
+1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone https://github.com/yourusername/your-repo.git
+   cd your-repo
